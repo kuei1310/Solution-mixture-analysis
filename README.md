@@ -12,7 +12,7 @@ This repository contains analysis scripts related to the methods described in ou
 -  Reads the **tpr** and **gro** files of the solution structure.
 -  Computes the density profile of **polymer, AA, NMP, and water**.
 -  Determines the interface position based on the density distribution.
-###  2.  $\pi-\pi$ Stacking Analysis (```pi-pi-stacking.ipynb)
+###  2.  $\pi-\pi$ Stacking Analysis (```pi-pi-stacking.ipynb```)
 -  Reads the bulk structure data (```bulk.tpr``` and ```bulk_pbc.gro```)
 -  Analyzes the number of **$\pi-\pi$ stacking interactioins** and classifies them into different stacking types.
 -  Generates the **backbone structure** for validation of atom selection groups. (```backbone.gro```)
